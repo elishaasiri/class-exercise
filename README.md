@@ -1,2 +1,2 @@
 # class-exercise
-training
+Practise
